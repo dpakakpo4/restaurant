@@ -4,7 +4,7 @@ import './MenuItem.css';
 
 type MenuItemProps = {
   title: string;
-  price: number;
+  price: string;
   tags: string;
 }
 
